@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    width: 100%;
+    background: rgb(128, 190, 128);
+}
+/* 
+.exploit {
+    width: 1600px;
+    height: 2134px;
+    background: url("../src/assets/exploit.jpg");
+    margin: auto;
+    background-position: 0px 0px;
+    background-position: -1200px 0px;
+    background-position: -2700px 0px;
+    background-position: -4300px 0px;
+    background-position: -6020px 0px;
+    animation: exploit 2s steps(5) infinite;
+}
+
+@keyframes exploit {
+    0% {
+        background-position: 0px 0px;
+    }
+
+    100% {
+        background-position: -8000px 0px;
+
+    }
+
+}
+
+.dance {
+    background: url("../src/assets/osoDance.jpg");
+    width: 734px;
+    height: 1000px;
+    margin: auto;
+    animation: dance 1s steps(4) infinite;
+    rotate: 10px;
+}
+
+@keyframes dance {
+    0% {
+        background-position: 0px 0px;
+    }
+
+    50% {
+        background-position: -3000px 0px;
+    }
+
+    100% {
+        background-position: 0px 0px;
+    }
+
+}
+
+.vela {
+    width: 187px;
+    height: 600px;
+    background-image: url('../src/assets/vela.jpg');
+    margin: auto;
+    animation: vela 1s infinite steps(8);
+}
+
+@keyframes vela {
+    to{
+        background-position: -1500px 0px;
+    }
+} */
+
